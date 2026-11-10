@@ -1,0 +1,4 @@
+D1|Green Oven Bakery|Baked Food|6.0|8
+D2|Raddison Blu|Dessert|10.0|3
+D3|Local Grocery|Vegetables|20.0|20
+D4|Keshav|Rice|4.0|6
